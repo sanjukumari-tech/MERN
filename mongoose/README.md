@@ -1,4 +1,4 @@
-# MERN
+# MONGOOSE
 
 basically it is driver which is helping you to use mongodb using javascript  like crud manipulation .
 
